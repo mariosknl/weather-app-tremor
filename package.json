@@ -17,7 +17,7 @@
     "@types/node": "18.17.14",
     "autoprefixer": "10.4.15",
     "country-state-city": "^3.1.4",
-    "eslint": "8.48.0",
+    "eslint": "8.50.0",
     "eslint-config-next": "13.4.19",
     "graphql": "^16.6.0",
     "heroicons": "^2.0.17",
