@@ -23,7 +23,7 @@
     "heroicons": "^2.0.17",
     "next": "14.2.5",
     "openai": "^4.0.0",
-    "postcss": "8.4.39",
+    "postcss": "8.4.41",
 
     "react": "18.3.1",
     "react-dom": "18.3.1",
