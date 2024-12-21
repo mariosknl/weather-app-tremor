@@ -18,10 +18,10 @@
     "autoprefixer": "10.4.20",
     "country-state-city": "^3.1.4",
     "eslint": "8.57.1",
-    "eslint-config-next": "15.0.3",
+    "eslint-config-next": "15.1.2",
     "graphql": "^16.6.0",
     "heroicons": "^2.0.17",
-    "next": "15.0.3",
+    "next": "15.1.2",
     "openai": "^4.0.0",
     "postcss": "8.4.49",
 
