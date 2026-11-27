@@ -14,7 +14,7 @@
     "@tremor/react": "^3.0.0",
     "@types/react": "18.3.31",
     "@types/react-dom": "18.3.7",
-    "autoprefixer": "10.6.2",
+    "autoprefixer": "10.7.0",
     "@types/node": "26.6.11",
     "country-state-city": "^3.1.4",
     "eslint": "8.57.1",
